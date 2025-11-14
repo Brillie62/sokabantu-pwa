@@ -6,12 +6,12 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
-  "theme_color": "#ff5722",
+  "theme_color": "#1877f2",
   "description": "Soka ni Maisha na tunaliishi",
   "lang": "sw",
   "icons": [
     {
-      "src": "https://i.imgur.com/BENSc4J.png",
+      "src": "https://i.imgur.com/UyUKntq.png",
       "sizes": "512x512",
       "type": "image/png"
     }
